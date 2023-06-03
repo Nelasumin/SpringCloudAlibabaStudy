@@ -1,0 +1,758 @@
+2023-06-03 15:13:04,856 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:13:04,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 15:17:21,063 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:17:21,063 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 15:17:30,787 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:17:30,787 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 15:17:37,809 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:17:37,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 15:17:43,853 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:17:43,853 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 15:17:44,981 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:17:44,981 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:17:45,902 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:17:45,903 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 15:21:06,461 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:21:06,461 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:21:20,551 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:21:20,551 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:25:35,288 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:25:35,288 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:25:45,917 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:25:45,917 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:26:04,769 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:26:04,769 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:26:14,419 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:26:14,419 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:32:44,833 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:32:44,833 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 15:32:51,646 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:32:51,646 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 15:32:51,658 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:32:51,658 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:36:26,797 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:36:26,797 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 15:36:28,008 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:36:28,008 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 15:36:29,069 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:36:29,069 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 15:36:30,771 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:36:30,771 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 15:36:31,881 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:36:31,881 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:38:03,915 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:03,915 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 15:38:03,932 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:03,932 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 15:38:03,943 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:03,943 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 15:38:03,955 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:03,955 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 15:38:03,967 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:03,967 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:38:25,269 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:25,269 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 15:38:26,386 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:26,386 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 15:38:27,488 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:27,488 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 15:38:28,610 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:28,610 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 15:38:29,669 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:38:29,669 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:41:18,287 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:18,287 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 15:41:18,300 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:18,300 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 15:41:18,314 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:18,314 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 15:41:18,328 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:18,328 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 15:41:18,339 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:18,339 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:41:26,634 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:26,634 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 15:41:27,835 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:27,835 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:41:30,730 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:30,730 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 15:41:31,799 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:31,799 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 15:41:32,708 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:41:32,709 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 15:42:06,214 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:42:06,214 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 15:45:16,587 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:45:16,587 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:45:46,283 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:45:46,283 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:45:51,756 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:45:51,756 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 15:59:31,489 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:59:31,489 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-06-03 15:59:44,224 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 15:59:44,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 15:59:45,447 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 15:59:47,650 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 15:59:49,318 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:00:10,757 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 16:00:11,277 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 16:00:12,292 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 16:00:13,551 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:01:00,016 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,
+
+2023-06-03 16:01:00,715 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 16:01:05,716 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 16:01:09,480 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:06:37,216 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,
+
+2023-06-03 16:06:38,708 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 16:06:39,709 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 16:06:40,972 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:06:43,497 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:06:43,497 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 16:06:43,508 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:06:43,508 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 16:06:43,520 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:06:43,520 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 16:06:43,532 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:06:43,532 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 16:06:51,722 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8202:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:06:51,722 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 16:06:52,858 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8201:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:06:52,858 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,10.192.80.101:8201_true,
+
+2023-06-03 16:06:54,114 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:06:54,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 16:06:55,101 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:06:55,101 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 16:10:30,695 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8202:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:10:30,695 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 16:10:30,709 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8201:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:10:30,709 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 16:10:30,721 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:10:30,721 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 16:10:30,733 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:10:30,733 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 16:10:45,149 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8202:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:10:45,149 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 16:10:46,345 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8201:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:10:46,345 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,10.192.80.101:8201_true,
+
+2023-06-03 16:10:47,613 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:10:47,613 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 16:10:48,777 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:10:48,777 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 16:10:50,050 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8301:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:10:50,050 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_false,
+
+2023-06-03 16:10:53,096 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 16:10:53,452 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 16:10:56,151 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 16:10:58,444 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:10:58,459 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 16:11:02,220 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:12:13,506 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8202:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:12:13,506 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 16:12:21,960 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:12:21,960 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,10.192.80.101:8201_true,
+
+2023-06-03 16:12:42,053 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:12:42,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 16:12:42,063 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8201:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:12:42,063 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 16:12:42,075 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:12:42,075 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 16:12:42,091 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:12:42,091 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 16:12:42,103 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_true,
+
+2023-06-03 16:12:43,009 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 1, msg: tcp:timeout
+
+2023-06-03 16:12:43,413 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 16:12:44,021 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 2, msg: tcp:timeout
+
+2023-06-03 16:12:44,427 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 16:12:45,271 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:12:45,692 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:12:55,969 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:12:55,969 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 16:12:57,153 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:12:57,153 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 16:12:58,424 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:12:58,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 16:12:59,615 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:12:59,615 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 16:13:00,875 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,10.192.80.101:8301_false,
+
+2023-06-03 16:13:02,411 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 16:13:02,828 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 16:13:07,412 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 16:13:07,830 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 16:13:11,166 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:13:11,585 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:16:29,269 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_true,
+
+2023-06-03 16:16:29,974 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 1, msg: tcp:timeout
+
+2023-06-03 16:16:30,428 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 16:16:30,975 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 2, msg: tcp:timeout
+
+2023-06-03 16:16:31,440 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 16:16:32,250 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:16:32,701 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:16:38,372 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,10.192.80.101:8301_false,
+
+2023-06-03 16:16:40,778 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 16:16:41,214 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 16:16:44,602 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 16:16:45,038 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 16:16:47,468 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:16:47,903 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:28:50,072 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:28:50,072 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 16:28:50,083 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:28:50,083 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 16:29:11,175 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:29:11,175 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 16:29:12,091 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:29:12,091 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 16:37:28,661 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:37:28,661 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 16:37:28,672 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:37:28,672 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 16:37:28,686 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:37:28,686 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 16:37:28,698 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:37:28,698 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 16:37:28,708 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_true,
+
+2023-06-03 16:37:29,651 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 1, msg: tcp:timeout
+
+2023-06-03 16:37:30,147 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 16:37:30,660 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 2, msg: tcp:timeout
+
+2023-06-03 16:37:31,156 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 16:37:31,907 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:37:32,410 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:37:46,994 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:37:46,994 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 16:37:48,227 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:37:48,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 16:37:50,432 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:37:50,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 16:37:51,525 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:37:51,525 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 16:37:52,482 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,10.192.80.101:8301_false,
+
+2023-06-03 16:37:54,051 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 16:37:54,546 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 16:37:59,059 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 16:37:59,558 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 16:38:02,813 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:38:03,310 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:40:22,757 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:40:22,758 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 16:40:22,770 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:40:22,771 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 16:40:22,784 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:40:22,784 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 16:40:22,798 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:40:22,798 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 16:40:22,810 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_true,
+
+2023-06-03 16:40:23,776 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 16:40:24,287 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 1, msg: tcp:timeout
+
+2023-06-03 16:40:24,784 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 16:40:25,296 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 2, msg: tcp:timeout
+
+2023-06-03 16:40:26,042 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:40:26,556 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:timeout
+
+2023-06-03 16:40:36,559 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 16:40:36,559 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 16:40:37,645 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 16:40:37,645 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 16:40:40,132 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:40:40,132 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 16:40:41,241 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:40:41,241 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 16:40:42,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,10.192.80.101:8301_false,
+
+2023-06-03 16:40:43,162 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 16:40:43,674 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 16:40:48,167 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 16:40:48,681 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 16:40:51,922 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:40:52,436 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+
+2023-06-03 16:44:58,367 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:44:58,367 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 16:44:58,380 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:44:58,380 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 16:45:08,950 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:45:08,950 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 16:45:09,931 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 16:45:09,931 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 17:13:21,782 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:13:21,782 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 17:13:21,799 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:13:21,799 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 17:13:35,963 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:13:35,963 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 17:13:37,004 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:13:37,004 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 17:16:05,809 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:16:05,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 17:16:08,047 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:16:08,047 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 17:16:14,846 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:16:14,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 17:16:20,181 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:16:20,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 17:43:41,374 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:43:41,374 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 17:43:41,384 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:43:41,384 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 17:43:41,412 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:43:41,412 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 17:43:41,416 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:43:41,416 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 17:43:41,420 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_true,
+
+2023-06-03 17:43:41,992 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 1, msg: tcp:timeout
+
+2023-06-03 17:43:42,478 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 17:43:42,993 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 2, msg: tcp:timeout
+
+2023-06-03 17:43:43,479 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 17:43:44,244 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:timeout
+
+2023-06-03 17:43:44,729 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 17:43:50,711 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:43:50,711 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 17:43:52,057 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,10.192.80.101:8301_false,
+
+2023-06-03 17:43:52,750 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 17:43:53,235 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 17:43:53,472 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:43:53,472 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 17:43:54,498 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:43:54,498 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 17:43:55,300 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:43:55,300 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 17:43:56,562 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 17:43:57,047 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 17:43:59,422 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+
+2023-06-03 17:43:59,906 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 17:53:29,199 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:53:29,199 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 17:53:29,214 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:53:29,214 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 17:53:29,226 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:53:29,226 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 17:53:29,239 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:53:29,239 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 17:53:29,251 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_true,
+
+2023-06-03 17:53:30,110 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 1, msg: tcp:timeout
+
+2023-06-03 17:53:30,581 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 17:53:31,113 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 2, msg: tcp:timeout
+
+2023-06-03 17:53:31,588 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 17:53:32,382 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:timeout
+
+2023-06-03 17:53:32,836 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 17:53:39,461 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:53:39,461 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 17:53:40,775 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,10.192.80.101:8301_false,
+
+2023-06-03 17:53:40,907 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 17:53:41,368 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 17:53:42,124 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 17:53:42,124 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 17:53:43,144 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 17:53:43,144 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 17:53:43,937 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 17:53:43,937 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 17:53:44,729 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 17:53:45,184 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 17:53:47,593 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+
+2023-06-03 17:53:48,047 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 18:07:53,414 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DanDong, dead ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 18:07:53,414 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,
+
+2023-06-03 18:07:53,428 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Dalian, dead ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 18:07:53,428 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-06-03 18:07:53,438 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 18:07:53,438 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,
+
+2023-06-03 18:07:53,454 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 18:07:53,454 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-06-03 18:07:53,468 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_true,10.192.80.101:8301_true,
+
+2023-06-03 18:07:54,227 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:timeout
+
+2023-06-03 18:07:54,669 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 1, msg: tcp:timeout
+
+2023-06-03 18:07:55,236 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:timeout
+
+2023-06-03 18:07:55,682 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 10.192.80.101:8301@Dalian in 2, msg: tcp:timeout
+
+2023-06-03 18:07:56,496 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2023-06-03 18:07:56,937 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:timeout
+
+2023-06-03 18:10:59,918 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DanDong, new ips size: 1, content: [10.192.80.101:8202:unknown:DanDong_1.0_true_false_DanDong]
+
+2023-06-03 18:10:59,918 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8202_true,
+
+2023-06-03 18:11:01,105 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Dalian, new ips size: 1, content: [10.192.80.101:8201:unknown:Dalian_1.0_true_false_Dalian]
+
+2023-06-03 18:11:01,105 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 10.192.80.101:8201_true,10.192.80.101:8202_true,
+
+2023-06-03 18:11:03,724 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 18:11:03,724 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8101_true,
+
+2023-06-03 18:11:04,903 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.192.80.101:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-03 18:11:04,903 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 10.192.80.101:8102_true,10.192.80.101:8101_true,
+
+2023-06-03 18:11:07,032 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 10.192.80.101:8301_false,10.192.80.101:8301_false,
+
+2023-06-03 18:11:08,874 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 1, msg: tcp:ok+
+
+2023-06-03 18:11:09,326 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 1, msg: tcp:ok+
+
+2023-06-03 18:11:13,881 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@DEFAULT in 2, msg: tcp:ok+
+
+2023-06-03 18:11:14,330 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 10.192.80.101:8301@Dalian in 2, msg: tcp:ok+
+
+2023-06-03 18:11:17,640 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2023-06-03 18:11:18,094 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 10.192.80.101:8301@Dalian, region: unknown, msg: tcp:ok+
+

@@ -1,0 +1,20 @@
+server:
+  port: 8201
+spring:
+  application:
+    name: book-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://sh-cynosdbmysql-grp-cqujkg38.sql.tencentcdb.com:22420/book
+    username: root
+    password: Hyk0902.
+  cloud:
+    nacos:
+      discovery:
+        #配置nacos 中心
+        server-addr: localhost:8848
+        cluster-name: Dalian
+    sentinel:
+      transport:
+        # 添加监控页面地址即可
+        dashboard: localhost:8858

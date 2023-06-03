@@ -1,0 +1,24 @@
+server:
+  port: 8301
+spring:
+  application:
+    name: borrow-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://sh-cynosdbmysql-grp-cqujkg38.sql.tencentcdb.com:22420/book
+    username: root
+    password: Hyk0902.
+  cloud:
+    nacos:
+      discovery:
+        #配置nacos 中心
+        server-addr: localhost:8848
+        ephemeral: false
+        cluster-name: Dalian
+    loadbalancer:
+      nacos:
+        enabled: true
+    sentinel:
+      transport:
+        # 添加监控页面地址即可
+        dashboard: localhost:8858

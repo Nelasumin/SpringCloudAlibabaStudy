@@ -1,0 +1,14 @@
+2023-06-03 16:23:57,356 INFO [dump-task] add task. groupKey=user-service-dev+DEFAULT_GROUP, taskKey=user-service-dev+DEFAULT_GROUP++false+null
+
+2023-06-03 16:35:13,399 INFO [dump-task] add task. groupKey=user-service-dev+DEFAULT_GROUP, taskKey=user-service-dev+DEFAULT_GROUP++false+null
+
+2023-06-03 16:39:08,975 INFO [dump-task] add task. groupKey=user-service-dev+DEFAULT_GROUP, taskKey=user-service-dev+DEFAULT_GROUP++false+null
+
+2023-06-03 16:43:59,024 INFO [dump-task] add task. groupKey=user-service-dev+DEFAULT_GROUP, taskKey=user-service-dev+DEFAULT_GROUP++false+null
+
+2023-06-03 16:43:59,058 WARN [dump-ignore] ignore to save cache file. groupKey=user-service-dev+DEFAULT_GROUP, md5=f5b077a14e0305438dda3d6cda12364d, lastModifiedOld=1685781548973, lastModifiedNew=1685781839021
+
+2023-06-03 16:45:04,474 INFO [dump-task] add task. groupKey=user-service-dev+DEFAULT_GROUP, taskKey=user-service-dev+DEFAULT_GROUP++false+null
+
+2023-06-03 16:45:04,581 WARN [dump-ignore] ignore to save cache file. groupKey=user-service-dev+DEFAULT_GROUP, md5=f5b077a14e0305438dda3d6cda12364d, lastModifiedOld=1685781548973, lastModifiedNew=1685781904471
+
